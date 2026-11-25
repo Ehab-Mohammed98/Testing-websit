@@ -4,6 +4,6 @@
     --Background-color:#F8FAFC;
 }
 .header{
-background-color:var(--primary-color);
+color:var(--primary-color);
 size-font:18px;
 }
